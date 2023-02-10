@@ -1,0 +1,40 @@
+html{
+  font-size: 10px;
+  background-image: url(back1.jpg);
+  font-family: 'sans-serif';
+}
+
+#heading{
+  text-align:center;
+  background: rgb(93, 122, 152);
+  font-size: 40px;
+  margin:0;
+  padding: 20px;
+  color: black  ;
+}
+
+.details, p{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+body {
+  width: 1000px;
+  height:600px;
+  line-height: 30px;
+  margin:auto;
+  background-color: lightblue;
+  border: 5px solid black;
+}
+
+.bike{
+  padding:50px;
+  display:flex;
+  flex-wrap: wrap;  
+  justify-content: space-around;
+  gap:20px;
+}
+
+
