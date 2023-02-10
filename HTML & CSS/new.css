@@ -1,0 +1,95 @@
+body{
+    margin: 25;
+    padding: 0;
+    background-color:lightblue;
+}
+
+.note{
+    position: fixed;
+    top: 0px;
+    width: 105vw;
+    height: 130px;
+    text-align: center;
+    background-color:lightcoral;
+    font-family: sans-serif;
+    border: 1px solid;
+}
+
+#movie{
+    display:flex;  
+    gap:50px;  
+    flex-wrap:wrap;
+    margin-top: 7%;
+    align-items: center;
+}
+.movie1{
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.movie1 a{
+    color: aliceblue;
+    font-size: 17px;
+}
+
+.movie2{
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.movie2 a{
+    color: aliceblue;
+    font-size: 17px;
+}
+
+.movie3{
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.movie3 a{
+    color: aliceblue;
+    font-size: 17px;
+}
+
+.movie4{
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.movie4 a{
+    color: aliceblue;
+    font-size: 17px;
+}
+
+.movie5{
+    padding: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.movie5 a{
+    color: aliceblue;
+    font-size: 17px;
+}
+
+.disc{
+
+    color:black;
+    padding-top: 500px;
+}
+#para
+{
+    color: black;
+    
+
+
