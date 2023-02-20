@@ -1,0 +1,88 @@
+html{
+  font-size: 10px;
+  font-family: 'sans-serif';
+  background-image: url(back.jpg);
+}
+
+#heading{
+  text-align:center;
+  background: rgb(93, 122, 152);
+  font-size: 40px;
+  margin:0;
+  padding: 15px;
+  color: black  ;
+}
+
+.h2{
+  font-size: 16px;
+  line-height: 1  2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.details,p{
+  font-size: 12px;
+  line-height: 1  2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+body {
+  width: 1000px;
+  height:600px;
+  line-height: 30px;
+  margin:auto;
+  background-color: lightblue;
+  border: 5px solid black;
+}
+
+.bike{
+  padding:5px;
+  display:flex;
+  flex-wrap: wrap;  
+  justify-content: space-around;
+  gap:20px;
+}
+
+
+#user{
+  font-family: "helvetica neue", helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgba(0, 0, 0, 0.6);
+  background: rgba(113, 113, 192, 0.3);
+  color: rgba(8, 8, 10, 0.6);
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#user1{
+  flex: display;
+  font-family: "helvetica neue", helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  flex-wrap:wrap;
+  border: 1px solid rgba(3, 3, 5, 0.6);
+  background: rgba(89, 89, 105, 0.3);
+  color: rgba(3, 3, 5, 0.6);
+  border-radius: 8px;
+}
+#center{
+  text-align: center;
+  font-family: "helvetica neue";
+}
+.members{
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.h2{
+  text-align: center;
+}
+
+#head{
+  text-align:center;
+
+}
