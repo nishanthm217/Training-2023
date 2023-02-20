@@ -1,0 +1,48 @@
+#header{
+    text-align: center;
+    padding:10px;
+    text-align:center;
+    background: rgb(63, 132, 207);
+    font-size: 40px;
+    margin:0;
+    padding: 15px;
+    color: black  ;
+}
+
+.nav-items{
+    text-align:center;
+    padding:10px;
+}
+
+#choice, #button{
+    text-align: center;
+}
+
+html{
+    background-color: gray;
+}
+
+#event_one, #event_two{
+    text-align: center;
+    margin:50px;
+    width:200px;
+    height:100px;
+    line-height: 30px;
+    padding:60px;
+    color:blue;
+    background-color: beige;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 3px;
+}
+
+#box{
+    display: flex;
+    flex-wrap:wrap;  
+    justify-content: space-around;
+}
+
+#create{
+    text-align: center;
+    color:brown;
+}
